@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luisiana-ctrl
-- 👀 I’m interested in rollerskating
+- 🛼 I’m interested in rollerskating
 - 🌱 I’m currently learning cloud basics (aws, gcp, azure)
 - 💞️ Fun fact: I am not fun
 - 😄 Pronouns: she/her
