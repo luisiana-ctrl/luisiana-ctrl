@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luisiana-ctrl
 - 🛼 I’m interested in rollerskating
-- 🌱 I’m currently learning cloud basics (aws, gcp, azure)
+- 🌱 I’m currently learning basics (linux, python, html)
 - 💞️ Fun fact: I am not fun
 - 😄 Pronouns: she/her
 - 🎶 Music: Ctrl by Sza is my favorite album
